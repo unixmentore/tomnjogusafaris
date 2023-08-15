@@ -549,12 +549,12 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 
 .hero {
   padding: 7rem 0 10rem 0;
-  background: #013220;
+  background: #808429;
   margin-bottom: 100px; }
   .hero.hero-inner {
     padding: 9rem 0 7rem 0;
     margin-bottom: auto;
-    background: #013220; }
+    background: #808429; }
   .hero h1 {
     color: #ffffff;
     font-size: 60px; }
@@ -1019,13 +1019,13 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     position: absolute;
     width: 7px;
     height: 7px;
-    border: 1px solid #1A374D;
+    border: 1px solid #808429;
     left: 0;
     top: 7px;
     border-radius: 50%; }
 
 .cta-section {
-  background: 	#013220 ; }
+  background: 	#808429 ; }
 
 .custom-block {
   margin-bottom: 30px; }
